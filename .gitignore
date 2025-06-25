@@ -1,0 +1,5 @@
+# Ignore all .wav files in the wav_files directory
+*.wav
+
+# Ignore all .yaml files in the config directory
+yaml/*.yaml
